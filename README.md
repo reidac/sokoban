@@ -2,7 +2,7 @@
 
 This repo contains a brute-force, breadth-first search based Sokoban
 solver, which I wrote because I got stuck on a Sokoban level
-((this one)[https://sokoban.info/?8_1]) and couldn't figure it out.
+( [this one](https://sokoban.info/?8_1) ) and couldn't figure it out.
 
 It's Python 2, and doesn't require anything especially 
 fancy in terms of dependencies, although it does make some
