@@ -56,3 +56,7 @@ A smarter algorithm would focus on crate pushes, rather than
 player moves, and search over the space of allowable pushes,
 which is smaller and more relevant than the space of 
 allowable moves.
+
+The solution for the problem level (in clearer format, not the
+format output by the program) is in the file `dh_01p.soln` in
+this repo.
